@@ -1,2 +1,2 @@
 # ME
-A repository to hold information about myself as well as some coding examples of the work I've done.
+A repository to hold some of the assignments I have done through school and their purposes.
